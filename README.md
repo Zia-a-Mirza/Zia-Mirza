@@ -3,7 +3,7 @@
 **`Aspiring full-stack developer`**
 
 *   ⚡  Computer Science Engineer at The Ohio State University with a specialization in AI
-*   🎓   I am currently learning MongoDB, Express JS, React JS, and Stable Diffusion
+*   🎓  Currently learning MongoDB, Express JS, React JS, and Stable Diffusion
 
 
 ### 🔎 Languages and Tools
